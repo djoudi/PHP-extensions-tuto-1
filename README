@@ -1,0 +1,4 @@
+This project is aimed for PHP training sessions and is not designed to be used as a production code as-is.
+It shows the basics to create a simple PHP extension.
+It uses PHP >= 5.3, it's not designed to compile on PHP < 5.3 nor on Windows platforms.
+Do not use it with threaded SAPIs as TSRM has not been implemented to keep code relatively simple.
